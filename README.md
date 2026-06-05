@@ -10,18 +10,6 @@ This repository acts as the central hub for mapping custom `.mp4` or `.m3u8` bac
 
 ---
 
-## 🚀 What's New — Contribute Portal v2
-
-The submission portal has been upgraded with powerful new capabilities. Here's what changed and why it matters:
-
-### 🎶 Multi-Song Linking
-Previously, you could only submit **one song per upload**. Now, a single canvas video can be linked to **multiple songs at once** — perfect for album canvases or tracks that share the same visual.
-
-### 🔗 Reuse an Existing Canvas
-No need to re-upload the same video twice. You can now **search the existing gallery** directly from the portal and link any canvas that's already live to new song entries. This keeps the repository lightweight and avoids duplicate files.
-
----
-
 ## How to Contribute via the Portal
 
 The easiest way to submit a canvas is through the **[Contribute Portal](https://canvas.echomusic.fun/contribute.html)**. No Git knowledge required — the portal handles forking, branching, and Pull Requests automatically.
